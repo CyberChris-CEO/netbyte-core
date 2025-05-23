@@ -37,6 +37,11 @@ Core components integrated at launch:
 - [Netmaker](https://netmaker.io) – Mesh SD-WAN tunneling via WireGuard
 - [Gitea](https://gitea.io) – Cryptographic source + pipeline control
 - [Weaviate](https://weaviate.io) + Mixtral – RAG for threat/action intelligence
+- [VPP](https://fd.io) (Vector Packet Processor)
+– High-performance, kernel-bypass networking engine used for SD-WAN tunneling, zero-trust microsegmentation, and deterministic packet routing within NetByte Core’s SDI mesh.
+  Integrated with WireGuard and BGP for predictive, policy-driven routing and multi-path failover logic.
+
+
 
 ---
 
