@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CyberChris-CEO/public/main/NetByteblacklogo.png" alt="NetByte Logo" width="180"/>
+</p>
+
+<p align="center">
+  <b>NetByte.AI® SDI-Core</b><br/>
+  <i>Orchestrating sovereign infrastructure for governments and enterprise</i>
+</p>
+
 # NetByte Core
 
 **NetByte Core** is the orchestration and intelligence layer of the NetByte SDI (Sovereign Digital Infrastructure) platform — a full-stack, self-contained, AI-native infrastructure system built for government, enterprise, and regulated environments.
